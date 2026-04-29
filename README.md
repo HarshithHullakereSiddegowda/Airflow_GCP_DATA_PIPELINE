@@ -37,5 +37,5 @@ Useful Links:
 This project has been developed with the help of the Youtube Video ([Data Engineer Project: An end-to-end Airflow data pipeline with BigQuery, dbt Soda, and more!](https://www.youtube.com/watch?v=DzxtCxi4YaA)) by Marc Lamberti.
 
 
-- Aziz Bohra
+https://robust-dinosaur-2ef.notion.site/PUBLIC-Retail-Project-af398809b643495e851042fa293ffe5b
 ---
